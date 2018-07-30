@@ -29,12 +29,12 @@ public class GuiButtonLoadKeys extends GuiButton
         if (this.visible)
         {
             boolean hovered = mouseX >= this.x && mouseY >= this.y && mouseX < this.x + this.width && mouseY < this.y + this.height;
-            int left = hovered ? this.width : 0;
+            int top = hovered ? this.width : 0;
 
             mc.getTextureManager().bindTexture(TEXTURE);
             GlStateManager.color(1.0F, 1.0F, 1.0F, 1.0F);
 
-            this.drawTexturedModalRect(this.x, this.y, left, 0, this.width, this.height);
+            this.drawTexturedModalRect(this.x, this.y, 0, top, this.width, this.height);
         }
     }
 }

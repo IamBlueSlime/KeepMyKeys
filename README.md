@@ -1,4 +1,4 @@
-# KeepMyKeys [![Build Status](https://img.shields.io/travis/com/giIamBlueSlime/KeepMyKeys/master.svg?style=flat-square)](https://travis-ci.org/IamBlueSlime/KeepMyKeys) [![Minecraft Version](https://img.shields.io/badge/minecraft%20version-1.12.2-red.svg?style=flat-square)](https://github.com/IamBlueSlime/KeepMyKeys) [![License](https://img.shields.io/badge/license-Ce--CILL--B-blue.svg?style=flat-square)](LICENSE.txt)
+# KeepMyKeys [![Build Status](https://img.shields.io/travis/com/giIamBlueSlime/KeepMyKeys/master.svg?style=flat-square)](https://travis-ci.com/IamBlueSlime/KeepMyKeys) [![Minecraft Version](https://img.shields.io/badge/minecraft%20version-1.12.2-red.svg?style=flat-square)](https://github.com/IamBlueSlime/KeepMyKeys) [![License](https://img.shields.io/badge/license-Ce--CILL--B-blue.svg?style=flat-square)](LICENSE.txt)
 
 ### Not published to Curse yet, still work to do on the mod :)
 
