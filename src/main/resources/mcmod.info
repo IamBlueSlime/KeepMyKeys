@@ -1,0 +1,16 @@
+[
+{
+  "modid": "keepmykeys",
+  "name": "Keep My Keys",
+  "description": "A mod who permits to load a Minecraft configuration file to import your keys mappings.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/IamBlueSlime/KeepMyKeys",
+  "updateUrl": "",
+  "authorList": ["IamBlueSlime"],
+  "credits": "My friends who motivated me to make this ESSENTIAL mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
