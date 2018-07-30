@@ -6,6 +6,8 @@ Bored from setting your controls every time you change your modpack? Ah ah ah. T
 
 Thanks to a little button on the `controls` GUI, you can load a old Minecraft `options.txt` file and import your previous controls. Just magic :)
 
+![Screenshot](screenshot.png)
+
 
 ## Installation
 
