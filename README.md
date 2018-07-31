@@ -11,6 +11,8 @@ Thanks to a little button on the `controls` GUI, you can load a old Minecraft `o
 
 ## Installation
 
+This mod is intended to be used in **clients** and not **servers**.
+
 This mod works with Minecraft Forge. Place the jar archive of KeepMyKeys in the `mods` folder. That's it!
 
 
